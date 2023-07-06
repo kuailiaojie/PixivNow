@@ -4,7 +4,7 @@
 
 Pixiv Service Proxy
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FFreeNowOrg%2FPixivNow&demo-title=PixivNow)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2kuailiaojie%2Fpixiv&demo-title=PixivNow)
 
 免费部署一个一模一样的服务步骤很简单——点上面的按钮然后一直下一步即可。<br>
 各位爹不要再爬我的服务了好吗？100GB/h的额度都能被您爬完了，我自己还怎么看色图呢？<br>
