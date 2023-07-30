@@ -32,7 +32,7 @@ mixin repoLink
       p 部分高级功能的效果取决于您在 Pixiv 源站的设定，您可以在 <ExternalLink href="https://www.pixiv.net/setting_profile.php" target="_blank">这里</ExternalLink> 查看。
 
     Card(title='开销')
-      p 我们的技术栈全是赞助得来，不要瞎搞（
+      p 我们的技术栈全是赞助得来，不要瞎搞😁
 
     Card(title='鸣谢')
       p: em 以下排名不分先后
