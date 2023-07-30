@@ -40,6 +40,7 @@ mixin repoLink
       ul
         li <strong>GitHub</strong> 提供了源码托管和版本管控服务
         li <strong>Vercel</strong> 提供了页面托管和 serverless 计算服务
+        li <strong>Cloudflare</strong> 提供了pximg.net的转换请求
       h3 个人
       p
         | 感谢为
