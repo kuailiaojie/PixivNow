@@ -16,7 +16,7 @@
   "redirects": [
     {
       "source": "/-/:__PATH*",
-      "destination": "https://proxy.kuailiaojie.eu.org/proxy/pximg.net/:__PATH"
+      "destination": "https://pximg.kuailiaojie.eu.org/:__PATH"
     }
   ],
   "headers": []
